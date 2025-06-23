@@ -1,7 +1,6 @@
 # 🌴 StayVista – JW Marriott Resort & Spa, Maldives
 
-Welcome to **StayVista**, your virtual concierge for the luxurious JW Marriott Maldives! ✨
-Built for simplicity, speed, and a seamless guest experience, StayVista lets you explore, book, and manage rooms and dining at your fingertips.
+Welcome to **StayVista**, your virtual concierge for the luxurious JW Marriott Maldives! Built for simplicity, speed, and a seamless guest experience, StayVista lets you explore, book, and manage rooms and dining at your fingertips.
 
 ---
 
