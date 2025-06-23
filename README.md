@@ -11,16 +11,6 @@ StayVista is a full-stack **Hotel Management System** crafted for **JW Marriott 
 
 ---
 
-## 🎯 Features
-
-* 🏨 **Room & Dining Bookings** with real-time data
-* 📸 Visual previews of ambiance and interiors
-* 📱 Responsive & intuitive UI
-* 🛡️ Secured MongoDB backend with end-to-end data protection
-* 🔁 Easy integration with cloud platforms — just update the `fetch()` URLs
-
----
-
 ## 🛠️ Tech Stack
 
 | Frontend                      | Backend | Database                | Hosting                      |
@@ -46,14 +36,13 @@ StayVista is a full-stack **Hotel Management System** crafted for **JW Marriott 
 5. Start the server
    `node app.js`
 
-6. Launch StayVista
-   Open `index.html` in your browser (or run a local server like Live Server)
+6. Open `index.html` in your browser (or run a local server like Live Server)
 
 ---
 
 ## 🏁 Conclusion
 
-StayVista brings elegance and ease to hotel management. Whether you're booking a romantic getaway or a family dinner by the beach, we've designed this system to deliver a **secure**, **personalized**, and **stress-free** experience.
+StayVista brings elegance and ease to hotel management. We've designed this system to deliver a **secure**, **personalized**, and **stress-free** experience.
 
 Welcome to effortless luxury.
 Welcome to **StayVista** 🌊✨
